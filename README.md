@@ -22,7 +22,7 @@ table
     </tr>
     <tr>
       <td>three</td>
-      <td>four</td>
+      <td style="color:#cccc33">four</td>
     </tr>
   </tbody>
 </table>
