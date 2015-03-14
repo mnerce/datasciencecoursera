@@ -28,6 +28,9 @@ table
 </table>
 
 ```python
-from nothing import light
+from nothing import light :camel:
 print("what?".format(zero))
 ```
+
+hello :camel:!
+
