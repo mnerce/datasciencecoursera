@@ -2,7 +2,7 @@
 
 abc
 
-## Two
+## Two :camel:
 
 def
 
@@ -28,9 +28,11 @@ table
 </table>
 
 ```python
-from nothing import light :camel:
+from nothing import light    ### :camel:
 print("what?".format(zero))
 ```
 
-hello :camel:!
+hello :camel:! and `:x:` and `<some><tags>` and <more><tags>
+now &lt;escaped&gt;
+
 
