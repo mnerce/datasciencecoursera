@@ -24,6 +24,9 @@ table
       <td>three</td>
       <td><span style="background-color:#cc33cc">four</span></td>
     </tr>
+    <tr>
+      <td colspan="2">whoo</td>
+    </tr>
   </tbody>
 </table>
 
