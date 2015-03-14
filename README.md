@@ -26,3 +26,8 @@ table
     </tr>
   </tbody>
 </table>
+
+```python
+from nothing import light
+print("what?".format(zero))
+```
